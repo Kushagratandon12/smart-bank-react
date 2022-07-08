@@ -1,0 +1,46 @@
+.login-page {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    grid-column-gap: 5em;
+    flex-direction: row;
+    height: max-content;
+}
+
+.g-login {
+    margin: 0 auto;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    box-sizing: border-box;
+    padding: 1.3em 1.5em;
+    font-size: 1.2em;
+    box-shadow: 1px 2px 7px rgb(4 1 49 / 25%);
+    background-color: white;
+    border-style: none;
+}
+
+
+.login-head{
+    color: black;
+    padding: 1em 1em;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    text-align: center;
+}
+
+.login-msg {
+    text-align: center;
+    font-weight: 500;
+    margin-top: .2em;
+    margin-bottom: 1em;
+}
+
+.gr-text{
+    margin-bottom: 1.5em;
+}
