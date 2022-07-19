@@ -1,6 +1,7 @@
 node_modules
 npm-debug.log
 build
+Jenkinsfile
 .dockerignore
 **/.git
 **/.DS_Store
